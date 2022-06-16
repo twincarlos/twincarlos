@@ -25,8 +25,16 @@
 
 ### Some of my creations:
 
-## MyDisneyPlus
+<div>
+  <img src='https://media.giphy.com/media/r5QcKvYjDKPteuYvBt/giphy.gif' alt='mydisneyplus-preview'>
+  <img src='https://media.giphy.com/media/wiuZSDUtyHTv4DSOAC/giphy.gif' alt='mydisneyplus-preview'>
+</div>
+
+<!-- ## MyDisneyPlus
 <img src='https://media.giphy.com/media/r5QcKvYjDKPteuYvBt/giphy.gif' alt='mydisneyplus-preview'>
+
+## Eventbright
+<img src='https://media.giphy.com/media/wiuZSDUtyHTv4DSOAC/giphy.gif' alt='mydisneyplus-preview'> -->
 
 <!--
 **twincarlos/twincarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
